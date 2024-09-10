@@ -1,0 +1,25 @@
+.box1 {
+  height: 100px ;
+  background: #ff0000 ;
+  width: 400px ;
+}
+
+.box2 {
+  width :150px ;
+  height: 250px ;
+  background: #00ff1e ;
+  float: left ;
+}
+
+.box3{
+  width: 42.5%;
+  height: 250px ;
+  background: #2300ff ;
+}
+
+.box4 {
+  height: 100px ;
+  background:#ffe600 ;
+  width: 400px ;
+  float : bottom ;
+}
